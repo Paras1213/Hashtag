@@ -1,5 +1,5 @@
 /**
-* Template Name: Append
+* Template Name: HashTag
 * Updated: Jan 30 2024 with Bootstrap v5.3.2
 * Template URL: https://bootstrapmade.com/append-bootstrap-website-template/
 * Author: BootstrapMade.com

@@ -1,5 +1,5 @@
 /**
-* Template Name: Append
+* Template Name: HashTag
 * Updated: Jan 30 2024 with Bootstrap v5.3.2
 * Template URL: https://bootstrapmade.com/append-bootstrap-website-template/
 * Author: BootstrapMade.com
@@ -186,6 +186,7 @@ section {
 @media (min-width: 1200px) {
   .navmenu {
     padding: 0;
+    flex: 1;
   }
 
   .navmenu ul {
